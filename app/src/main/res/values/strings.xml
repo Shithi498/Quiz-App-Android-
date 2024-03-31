@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizApp3</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="next_question">Next Question</string>
+    <string name="_10">10</string>
+    <string name="verify_answer">Verify Answer</string>
+    <string name="question">Question</string>
+    <string name="todo">TODO</string>
+    <string name="questions">Questions</string>
+    <string name="_010">10</string>
+    <string name="totalquscount">totalqusCount</string>
+
+</resources>
